@@ -18,6 +18,6 @@ AMapLocation flutter plugin
 
   s.static_framework = true
   s.ios.deployment_target = '8.0'
-  s.dependency 'AMapLocation','~>2.6.7'
+  s.dependency 'AMapLocation','~>2.9.0'
 end
 
